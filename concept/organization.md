@@ -1,2 +1,4 @@
-is:: [[concept]]
-equals:: [organization | Wikipedia](https://en.wikipedia.org/wiki/Organization)
+---
+is: "[[concept]]"
+equals: [organization | Wikipedia](https://en.wikipedia.org/wiki/Organization)
+---
